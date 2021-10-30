@@ -20,4 +20,4 @@ Attention: It is not possible to obtain the abstract of books.
 # How to use
  1. Open the script in Colab via the link in "ConvertCsvSpringerToBib.ipynb".
  2. Add the springer CSV file named exactly like: **"springer.csv"** in the root folder of the notebook.
- 3. Play on all codes in the order they are arranged
+ 3. Play on all codes in the order they are arranged.
